@@ -50,6 +50,15 @@ Designed, Developed & Maintained by **FARHAN SHAHARIAR**.
 ## ⚖️ Privacy & Security
 This software is 100% safe, offline, and respects your data privacy. It acts simply as a secure bridge between your own PC and your Android device. No data is collected or sent to any external servers.
 
+
+---
+
+## ⚖️ App Overview:
+<img width="532" height="624" alt="IMG_20260512_130157" src="https://github.com/user-attachments/assets/fec3843a-a828-46bf-9099-1554b9cc0d05" />
+<img width="1027" height="652" alt="IMG_20260512_130142" src="https://github.com/user-attachments/assets/bafe1543-f0bc-42af-969d-7783e1619b9b" />
+<img width="1005" height="636" alt="IMG_20260512_130134" src="https://github.com/user-attachments/assets/48394936-bdf0-46e2-a61b-e00ce574fd5a" />
+<img width="1017" height="635" alt="IMG_20260512_130123" src="https://github.com/user-attachments/assets/975603a2-05a8-40f5-9784-cc0270ea831c" />
+
 ---
 
 > **Support the Project:** If you find this tool helpful and it saves your time, please consider giving this repository a **Star ⭐**! Your support encourages future updates and new projects.
