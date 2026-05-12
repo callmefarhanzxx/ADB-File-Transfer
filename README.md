@@ -1,0 +1,55 @@
+# 📱 ADB File Transfer (Ultimate PRO) 🚀
+*Fast. Wireless. Simple.*
+
+**ADB File Transfer** is a powerful and user-friendly desktop tool designed to seamlessly back up files and folders from your Android phone to your PC, or transfer files from your PC to your phone. By leveraging **ADB (Android Debug Bridge)** technology, it bypasses the slow speeds and unreliability of traditional Bluetooth or standard MTP cable transfers, ensuring lightning-fast performance.
+
+---
+
+## 🌟 Key Features
+
+* **⚡ High-Speed Transfer:** Move large files and heavy folders significantly faster than traditional copy-paste methods.
+* **🛜 Wireless Freedom:** Say goodbye to cables! Once set up, you can perform all your transfers entirely over Wi-Fi.
+* **📂 Smart Folder Navigation:** Browse your phone's internal storage directly from your PC to select specific folders for backup.
+* **🎨 Premium Dark Interface:** Enjoy a modern, sleek, and eye-friendly **Dark + Orange Accent** user interface.
+* **🔋 Live Device Status:** Monitor your phone's real-time battery percentage and available free storage directly from the app dashboard.
+* **⚠️ Smart Conflict Handling:** Custom intelligent prompts to Overwrite, Skip, or Cancel when duplicate files are detected.
+
+---
+
+## 🚀 How to Use (Step-by-Step Guide)
+
+Follow these simple steps to get started:
+
+### Step 1: Initial Phone Setup (One-time)
+1. Go to **Settings > About Phone** on your Android device.
+2. Tap on **Build Number** 7 times consecutively until you see the message "You are now a developer!".
+3. Go back to Settings, open **Developer Options**, and enable **USB Debugging**.
+
+### Step 2: Connecting to PC
+* **Cable Mode (Wired):** Connect your phone to your PC using a high-quality USB cable. If a security prompt appears on your phone screen, check *"Always allow from this computer"* and tap **Allow/OK**. The app will display a green 🟢 "Connected" status.
+* **Wireless Mode (Wi-Fi):** 
+  1. *Important:* First, connect your phone via USB cable to activate the wireless ADB port.
+  2. The app will automatically fetch your phone's IP address (or you can enter it manually in the Wireless panel).
+  3. Click the **Connect** button.
+  4. Once you see the "Connection Successful" pop-up, you can safely unplug the USB cable. You are now fully wireless!
+
+---
+
+## 🛠️ System Requirements
+* A Windows PC.
+* An Android Smartphone.
+* Both devices must be connected to the **exact same Wi-Fi network** for Wireless Mode to work.
+
+---
+
+## 👨‍💻 Developer
+Designed, Developed & Maintained by **FARHAN SHAHARIAR**.
+
+---
+
+## ⚖️ Privacy & Security
+This software is 100% safe, offline, and respects your data privacy. It acts simply as a secure bridge between your own PC and your Android device. No data is collected or sent to any external servers.
+
+---
+
+> **Support the Project:** If you find this tool helpful and it saves your time, please consider giving this repository a **Star ⭐**! Your support encourages future updates and new projects.
