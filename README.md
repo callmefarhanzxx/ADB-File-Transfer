@@ -3,7 +3,7 @@
 
 **ADB File Transfer** is a lightweight, ultra-reliable desktop tool designed to seamlessly back up massive folders from your Android phone to your PC, or transfer folders from your PC to your phone. 
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Android-0078D6?logo=windows&logoColor=white)](https://github.com/callmefarhanzxx/ADB-File-Transfer)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](https://github.com/callmefarhanzxx/ADB-File-Transfer)
 [![Releases](https://img.shields.io/badge/Releases-GitHub-blue?logo=github)](https://github.com/callmefarhanzxx/ADB-File-Transfer/releases)
 
 ---
