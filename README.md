@@ -45,13 +45,6 @@
 </p>
 ---
 
-<p align="center">
-<img width="1672" height="941" alt="01 ADB File Transfer" src="https://github.com/user-attachments/assets/f6a6735a-a4f7-406b-b0ed-46fcdd2285bc" />
-<img width="1254" height="1254" alt="03 ADB File Transfer" src="https://github.com/user-attachments/assets/b3b9fac0-a2e8-4f7e-a8cc-1bf4dbe08324" />
-</p>
-
----
-
 ## 🛠️ System Requirements
 - A Windows PC (Windows 8, 10, or 11).
 - An Android Smartphone.
