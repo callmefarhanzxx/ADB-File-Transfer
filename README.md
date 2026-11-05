@@ -7,9 +7,10 @@
 [![Releases](https://img.shields.io/badge/Releases-GitHub-blue?logo=github)](https://github.com/callmefarhanzxx/ADB-File-Transfer/releases)
 
 ---
-
-Powered by a custom **Native ADB Engine**, it bypasses the slow speeds, 4GB limits, and frequent crashes of traditional cable transfers. Just connect via USB or Wi-Fi, and transfer 100GB+ of data without a single freeze or corrupted file.
-
+<p align="center">
+<img width="1672" height="941" alt="01 ADB File Transfer" src="https://github.com/user-attachments/assets/f6a6735a-a4f7-406b-b0ed-46fcdd2285bc" />
+<img width="1254" height="1254" alt="03 ADB File Transfer" src="https://github.com/user-attachments/assets/b3b9fac0-a2e8-4f7e-a8cc-1bf4dbe08324" />
+</p>
 ---
 
 ## 🌟 Key Features
@@ -37,6 +38,17 @@ Powered by a custom **Native ADB Engine**, it bypasses the slow speeds, 4GB limi
   2. First, connect your phone via USB cable to activate the wireless ADB port.
   3. The app will automatically fetch your phone's IP address.
   4. Click **Connect**. Once you see the "Connection Successful" pop-up, you can safely unplug the USB cable and enjoy fully wireless transfers!
+
+---
+<p align="center">
+<img width="1672" height="941" alt="02 ADB File Transfer" src="https://github.com/user-attachments/assets/bba7f87a-79b8-4eef-b838-8ce2468be504" />
+</p>
+---
+
+<p align="center">
+<img width="1672" height="941" alt="01 ADB File Transfer" src="https://github.com/user-attachments/assets/f6a6735a-a4f7-406b-b0ed-46fcdd2285bc" />
+<img width="1254" height="1254" alt="03 ADB File Transfer" src="https://github.com/user-attachments/assets/b3b9fac0-a2e8-4f7e-a8cc-1bf4dbe08324" />
+</p>
 
 ---
 
