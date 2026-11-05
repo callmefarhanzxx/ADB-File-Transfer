@@ -65,10 +65,9 @@ This software is 100% safe, offline, and respects your data privacy. It acts sim
 ---
 
 ## 📸 App Interface:
-<img width="532" height="624" alt="IMG_20260512_130157" src="https://github.com/user-attachments/assets/fec3843a-a828-46bf-9099-1554b9cc0d05" />
-<img width="1027" height="652" alt="IMG_20260512_130142" src="https://github.com/user-attachments/assets/bafe1543-f0bc-42af-969d-7783e1619b9b" />
-<img width="1005" height="636" alt="IMG_20260512_130134" src="https://github.com/user-attachments/assets/48394936-bdf0-46e2-a61b-e00ce574fd5a" />
-<img width="1017" height="635" alt="IMG_20260512_130123" src="https://github.com/user-attachments/assets/975603a2-05a8-40f5-9784-cc0270ea831c" />
+<img width="1019" height="658" alt="ScreenShot_20261106020348" src="https://github.com/user-attachments/assets/9f6c601c-cf29-4d94-94d7-464ce579a6c8" />
+<img width="1059" height="628" alt="ScreenShot_20261106015848" src="https://github.com/user-attachments/assets/be5dc30d-1424-4f56-aef3-00889721bad6" />
+<img width="1059" height="622" alt="ScreenShot_20261106020221" src="https://github.com/user-attachments/assets/5fecc031-ec5e-4aa9-924d-cc618c7223c2" />
 
 ---
 
